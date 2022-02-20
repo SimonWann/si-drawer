@@ -1,0 +1,8 @@
+.canvas_container{
+  cursor: url('@assets/aiming.svg') 12 12, crosshair;
+  &_item{
+    transform: scale(0.5);
+    transform-origin: 0 0;
+    
+  }
+}
